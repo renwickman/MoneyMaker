@@ -1,0 +1,14 @@
+C:\Users\renwi\Desktop\CsharpProjects\MoneyMaker\bin\Debug\net8.0\MoneyMaker.exe
+C:\Users\renwi\Desktop\CsharpProjects\MoneyMaker\bin\Debug\net8.0\MoneyMaker.deps.json
+C:\Users\renwi\Desktop\CsharpProjects\MoneyMaker\bin\Debug\net8.0\MoneyMaker.runtimeconfig.json
+C:\Users\renwi\Desktop\CsharpProjects\MoneyMaker\bin\Debug\net8.0\MoneyMaker.dll
+C:\Users\renwi\Desktop\CsharpProjects\MoneyMaker\bin\Debug\net8.0\MoneyMaker.pdb
+C:\Users\renwi\Desktop\CsharpProjects\MoneyMaker\obj\Debug\net8.0\MoneyMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renwi\Desktop\CsharpProjects\MoneyMaker\obj\Debug\net8.0\MoneyMaker.AssemblyInfoInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\MoneyMaker\obj\Debug\net8.0\MoneyMaker.AssemblyInfo.cs
+C:\Users\renwi\Desktop\CsharpProjects\MoneyMaker\obj\Debug\net8.0\MoneyMaker.csproj.CoreCompileInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\MoneyMaker\obj\Debug\net8.0\MoneyMaker.dll
+C:\Users\renwi\Desktop\CsharpProjects\MoneyMaker\obj\Debug\net8.0\refint\MoneyMaker.dll
+C:\Users\renwi\Desktop\CsharpProjects\MoneyMaker\obj\Debug\net8.0\MoneyMaker.pdb
+C:\Users\renwi\Desktop\CsharpProjects\MoneyMaker\obj\Debug\net8.0\MoneyMaker.genruntimeconfig.cache
+C:\Users\renwi\Desktop\CsharpProjects\MoneyMaker\obj\Debug\net8.0\ref\MoneyMaker.dll
